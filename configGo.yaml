@@ -1,0 +1,12 @@
+id: "514"
+sector: 3
+tasks:
+  - feature/task2
+  - feature/task4
+dailyHours:
+  - 6
+  - 10
+languages:
+  C++: 7.9
+  C: 8.0
+  Golang: 9.1
