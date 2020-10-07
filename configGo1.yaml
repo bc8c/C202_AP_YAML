@@ -1,0 +1,15 @@
+id: 514
+classnumber: 3
+contents:
+  - Blockchain
+  - GoLang
+  - ShellScript
+  - YAML
+assignment:
+  - assignment1/ShellScript
+  - assignment2/GoLang
+difficulty:
+  BC: 9.0
+  GL: 6.3
+  SS: 6.0
+  YM: 3.4     

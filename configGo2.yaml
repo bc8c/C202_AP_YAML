@@ -1,0 +1,14 @@
+id: 2405
+shopname: myCoffeeShop
+clerk:
+  - Tom
+  - JaneKim
+  - Bob
+menu:
+  COFFEE:
+  - americano
+  - caffelatte
+  - caffemocha
+  ICECREAM:
+  - soft
+  - mango
